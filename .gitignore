@@ -1,0 +1,8 @@
+# DS Store
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# Visual Studio Code Files
+.vscode/
