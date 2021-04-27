@@ -5,6 +5,13 @@ This project can work as a template for a REST server in node
 
 There are already most of the popular features for any secure service.
 
-JsonWebToken - Handle JWT creation and validation
-Auth middleware - Reject or approve request if authenticated or not
-Express-validator - Validate input data and allow to continue if all cases are good
+### Content
+
+* JsonWebToken - Handle JWT creation and validation
+* Auth middleware - Reject or approve request if authenticated or not
+* Express-validator - Validate input data and allow to continue if all cases are good
+
+### Setup
+
+1. Clone project
+2. `npm start`
